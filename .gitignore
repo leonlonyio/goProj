@@ -1,0 +1,16 @@
+# macOS 系统文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE 配置文件（如果需要）
+.idea/
+.vscode/
+*.sublime-*
+
+# 依赖包（如果是 Go 项目）
+vendor/
