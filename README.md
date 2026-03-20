@@ -1,23 +1,23 @@
 cd /Users/goProj/McDProjTest/ 
 
-<!-- Make all scripts executable: -->
+1.Make all scripts executable:
 
 chmod +x build.sh test.sh run.sh demo.sh
 
-<!-- Build the application: -->
+2.Build the application:
 
 ./build.sh
 
 
-<!-- Run tests: -->
+3.Run tests:
 
 ./test.sh
 
 
-<!-- Run the simulation (non-interactive mode for GitHub Actions): -->
+4.Run the simulation (non-interactive mode for GitHub Actions):
 
 ./run.sh
 
-<!-- For interactive mode (for the next round): -->
+5.For interactive mode (for the next round):
 
 ./demo.sh
